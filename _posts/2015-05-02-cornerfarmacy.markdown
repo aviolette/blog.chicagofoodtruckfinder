@@ -56,7 +56,7 @@ ED: We are the first and only juice truck in Chicago. There has been a couple ot
 
 The response to the juice has been phenomenal, selling out daily and requiring a look toward increased capacity down the road. At this point we are content as a micro­juicery and given the time intensive production of our products and that we are unwaveringly committed to both the farm fresh food AND the juice on the truck, we will continue to produce the artisan small batches that our customers can expect to sell out.
 
-**AV: Is the food truck your only business? What do you do in the “off­-season”?**
+**AV: Is the food truck your only business? What do you do in the "off­-season"?**
 
 ED: The Corner Farmacy is our main focus at the moment however both of us have and will take on various side ventures in order to create income, anything from practicing law to selling reclaimed wood, we never know what opportunities will present themselves or what we will find ourselves doing.
 
