@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 7.5.2 (457172)"/><meta name="keywords" content="page, published"/><meta name="author" content="Andrew Violette"/><meta name="created" content="2013-12-13 17:56:00 +0000"/><meta name="source" content="desktop.mac"/><meta name="updated" content="2016-02-25 20:06:20 +0000"/><title>Integration FAQ</title></head><body>
+<div><b>I am a new truck, how do I get my truck on your site?</b></div>
+<div><br/></div>
+<div>Send me your social media information (twitter, facebook, website, etc) and I will create a profile for you on my site. I generally pull the icon I display for you from your twitter profile, but can do something different if you prefer.</div>
+<div><br/></div>
+<div>I will also add you to this twitter list which keeps track of the trucks my app tracks: <a href="https://twitter.com/chifoodtruckz/tracking/members">https://twitter.com/chifoodtruckz/tracking/members</a></div>
+<div><br/></div>
+<div>Also, if you’re interested in modifying your own information on my site send me your google account email (either gmail or a google apps email) and I will set you up to use third-party authentication to log into to my vendor portal. From there you can edit your profile (and use Beaconnaise =&gt; see below).</div>
+<div><br/></div>
+<div><b>How do I get my truck to show up on your food truck map?</b></div>
+<div><br/></div>
+<div>The Chicago Food Truck Finder displays a map with markers at the spots where food trucks are going to be on the current day. Truck stops are added by the following methods:</div>
+<div><br/></div>
+<ol>
+<li>My website automatically parses tweets from food trucks on twitter and pulls out location / time information. See below for how to best structure your tweets.</li>
+<li>My website automatically pulls calendar feeds from google calendar at midnight every day. If you publish a public google calendar feed just send me the public feed URL. Also, if you change your calendar after midnight on the current day, you can use the vendor portal to resync your calendar entries.</li>
+<li>My website scans known twitter accounts (such as @uchinomgo) and adds spots if they spot any trucks that are not currently on my website</li>
+<li>Food trucks can use my Beaconnaise app (available on my vendor portal), to send out a beacon signal for where they are at. When they are done at a spot, they just turn it off. This is probably the most accurate method for pinpointing a truck</li>
+<li>Finally, I manually add trucks that don’t publish their location in any of the above methods.</li>
+</ol>
+<div><br/></div>
+<div><b>What is the best way to tweet to ensure I am accurately displayed on your website?</b></div>
+<div><br/></div>
+<div>Tweet your location day-of. My website scans twitter on 3 minute intervals and pulls out relevant time and location information.</div>
+<div><br/></div>
+<div>Formats I parse:</div>
+<div><br/></div>
+<ul>
+<li>Intersections: Adams and Wacker</li>
+<li>Addresses: 125 S. Clark</li>
+<li>Buildings: Trump, Willis, AON, etc.</li>
+<li>University of Chicago – #uchicago, #uofc, #uoc, University of Chicago</li>
+<li>600 W – #600w #600, you know where, etc.</li>
+<li>various others</li>
+</ul>
+<div><br/></div>
+<div>You can specify a time range (like 11:00am-2:00pm) or say something like “until 2:00pm” otherwise I assume you will be at a location for 2 hours. How I determine the start time is kinda complicated, but if it’s in the morning you don’t specify a start time, I assume lunch (11:30-1:30). If its in the afternoon, I assume it starts when your tweet is received.</div>
+<div><br/></div>
+<div>Make sure you don’t phrase the tweet as an ‘@’ reply when sending out your location. I (and your followers) will not see it unless we follow the person you are replying to. An example</div>
+<div><br/></div>
+<div>PREFER: We are at 600 W Chicago</div>
+<div>DON’T PREFER: @GrouponChicago We are coming your way today.</div>
+<div>Also, its best not to include two addresses in a tweet. For instance, “Leaving Clark and Washington; Heading to Madison and Wacker”</div>
+<div><br/></div>
+<div>If you send tweets with geolocation data in them, I can pinpoint your exact position. I turn this feature on per-truck, so contact me if you plan to do this.</div>
+<div><br/></div>
+<div><b>How do I setup a google calendar?</b></div>
+<div><br/></div>
+<div>This would allow me to auto-publish your schedule to my website. Send me an email (aviolette at gmail) if you’d like some help setting this up.</div>
+<div><br/></div>
+<div><b>What is Beaconnaise?</b></div>
+<div><br/></div>
+<div>Beaconnaise is web application that uses your GPS on your smartphone to locate your food truck. It assumes that you are using your phone from your food truck.</div>
+<div><br/></div>
+<div>To use it go to <a href="http://www.chicagofoodtruckfinder.com/vendor/beaconnaise">http://www.chicagofoodtruckfinder.com/vendor/beaconnaise</a></div>
+<div><br/></div>
+<div>If you are not logged in, it will redirect you to google where you will login with your google account, then redirect you back to my site when you have logged in.</div>
+<div><br/></div>
+<div>To turn on the beacon, just click the checkbox. That’s it. To turn off the beacon, uncheck the checkbox.</div>
+<div><br/></div>
+<div>You will need to send me your gmail or google apps email address for me to configure your truck to use beaconnaise.</div>
+<div><br/></div>
+<div><b>How do I get my truck in your automated notifications?</b></div>
+<div><br/></div>
+<div>I have several twitter accounts: @chiftf_600w, @chiftf_lakeclin, @chiftf_dm, @chiftf_nbctower, @chiftf_madwack, etc that send out automated notifications about what trucks are going to be there during a day. I also plan to refine this to allow customizable notifications. These notifications go out at 11:00am, Monday through Friday.</div>
+<div><br/></div>
+<div>I must know your location (either by tweet or google calendar) by 11:00 day of. That’s it.</div>
+<div><br/></div>
+<div>Also, this feature will retweet trucks when the address is mentioned in the tweet one time per-day, per-spot.</div>
+<div><br/></div>
+<div><br/></div>
+</body></html>
