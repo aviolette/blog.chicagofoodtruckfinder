@@ -7,7 +7,7 @@ This fall, I started testing out a live tracking solution that I developed with 
 
 This tracking solution integrates with my social media accounts (all the accounts that start out with chiftf_* such as @chiftf_125clark).  Whenever a food truck with a tracker comes within the boundaries of one of these accounts, a tweet gets sent out saying that the truck has arrived.
 
-{% twitter https://twitter.com/chiftf_125Clark/status/808650183705825280 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">. <a href="https://twitter.com/BeaversDonuts?ref_src=twsrc%5Etfw">@beaversdonuts</a> is now at Clark and Monroe <a href="https://t.co/mkl6YdB7kW">https://t.co/mkl6YdB7kW</a></p>&mdash; 125 S. Clark (@chiftf_125Clark) <a href="https://twitter.com/chiftf_125Clark/status/808650183705825280?ref_src=twsrc%5Etfw">December 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 I do encounter the occasional glitch from these devices (when they are obstructed).  I built some code  to algorithmically correct these glitches within a 100ft of accuracy, but it's not perfect.   That's one of the reasons why requiring these devices to enforce the 200ft rule is dumb - they're only super precise when they can be triangulated without obstruction.
 
