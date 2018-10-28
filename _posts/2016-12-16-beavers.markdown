@@ -1,0 +1,14 @@
+---
+title: The Best Way to Find Beavers Donuts
+---
+In the Summer of 2011, I set out to create a food truck website that provided a comprehensive and accurate picture of where food trucks are and where they're going to be.  Until recently, I relied mostly on data from twitter and published calendars to drive my daily schedule.  While twitter scraping works accurately enough for trucks that operate on a pretty normal lunch schedule, it works horribly for food trucks that move around the city during the day (like donut and dessert trucks).
+
+This fall, I started testing out a live tracking solution that I developed with Beavers Donuts.  This solution includes a device that's plugged into the food truck that sends live GPS data to my website.  When my website says "Trasmitting from beacon" next to a food truck, you can conclude with a high-level of confidence that the food truck is where it says it is (data is broadcast roughly every couple minutes when parked).
+
+This tracking solution integrates with my social media accounts (all the accounts that start out with chiftf_* such as @chiftf_125clark).  Whenever a food truck with a tracker comes within the boundaries of one of these accounts, a tweet gets sent out saying that the truck has arrived.
+
+{% twitter https://twitter.com/chiftf_125Clark/status/808650183705825280 %}
+
+I do encounter the occasional glitch from these devices (when they are obstructed).  I built some code  to algorithmically correct these glitches within a 100ft of accuracy, but it's not perfect.   That's one of the reasons why requiring these devices to enforce the 200ft rule is dumb - they're only super precise when they can be triangulated without obstruction.
+
+I plan more features around these devices in the future and hope to get more food trucks to use them, so that I can present to you the most accurate view of food trucks in Chicago (and New York, which is in beta).
