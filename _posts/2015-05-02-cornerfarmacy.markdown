@@ -1,3 +1,7 @@
+---
+title: The Corner Farmacy
+---
+
 In September of 2014, The Corner Farmacy hit the streets of Chicago for the first time, bringing cold-pressed juices and a menu based on local, seasonal food. Unfortunately I did not try them until late November. I was instantly hooked. Everything I had from them was fantastic. Egg, bacon, cheese, tomato, and pesto sandwich. Cold-pressed kale juice. Blueberry muffins baked fresh on their truck. Then in early December, like Keyser Söze, they were gone. Well, not really gone, they just shut down for the winter season.
 
 
