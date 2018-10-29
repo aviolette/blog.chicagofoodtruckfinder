@@ -1,0 +1,3 @@
+A while back, I did an interview for a Columbia College story on food trucks in Chicago. The story features The Jibarito Stop, Chicago Lunch Box, and The More Mobile. Three months later I began wondering what became of it, and discovered that it was produced and put on youtube. So, for your enjoyment, here it is 😃
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DsnVT_R3o6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
