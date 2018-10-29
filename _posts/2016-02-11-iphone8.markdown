@@ -1,0 +1,16 @@
+---
+title: iPhone App Version 1.8 Released
+---
+
+Apple approved version 1.8 of my iPhone app yesterday. Here are the main highlights:
+
+* Better looking on larger displays (such as the iPad and iPhone 6s Plus)
+* Map view shows green markers for trucks that are currently open and red markers for trucks that will be open later
+* Ability to favorite trucks and locations
+* Ability to filter out trucks that aren’t favorites, that aren’t at favorite locations, and/or aren’t savory trucks
+* A new slide-out settings drawer that allows you to set your filters, see when the last server synchronization occurred, and see the current version of the app you’re running
+* Inclusion of new stats to the truck page (including when a truck was first seen on the road and when it was last seen)
+* Added new truck list tab that allows you to see all the trucks (regardless as to whether they are currently active or not)
+* Changed stylization of truck page and moved the stops closer to the top
+
+These changes move my app towards what I really want: push notifications. In the next version of the app, you will be able to receive notifications about your favorite food trucks and/or locations.
