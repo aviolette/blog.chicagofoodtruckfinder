@@ -1,4 +1,6 @@
-# Andrew's Top Five Chicago Donuts
+---
+title: Andrew's Top 5 Donuts
+---
 
 Everyone’s got their top-5 donut list, so I thought I’d craft one for myself.
 
