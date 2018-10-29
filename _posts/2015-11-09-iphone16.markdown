@@ -11,7 +11,7 @@ I have submitted my latest update to my Chicago Food Truck Finder iPhone app to 
 * Added navigation button on location page
 * Initial iPad support. It works on the iPad, but doesn’t look totally like a native iPad app.
 
-[Flirty Screen Shot](/assets/img/flirtyscreenshot.png)
+![Flirty Screen Shot](/assets/img/flirtyscreenshot.png)
 
 I will update you when this gets approved for release.
 
