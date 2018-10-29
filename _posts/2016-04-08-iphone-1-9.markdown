@@ -1,0 +1,8 @@
+---
+title: Chicago Food Truck Finder iPhone Version 1.9 Released
+---
+I released an update to my iPhone/iPad app that has an improved trucks tab.  The truck icons are displayed in in a collection view.  You can search for trucks by name such "Fat Shallot" or by category such as "asian" or "bbq."  
+
+In addition to the truck view, some trucks now have a published menu that you can access directly from the app (I plan on expanding this functionality as I get more data).
+
+![iPhone 1.9 Screenshot](/assets/img/iphone19.png)
