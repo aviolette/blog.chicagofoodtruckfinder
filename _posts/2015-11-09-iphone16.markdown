@@ -1,0 +1,20 @@
+---
+title: Chicago Food Truck Finder iPhone Release 1.6
+---
+
+I have submitted my latest update to my Chicago Food Truck Finder iPhone app to the Apple App Store. With this release, I am finally happy with the way it looks on the iPhone device. I’m not saying its “feature complete”, but the look-and-feel jives with how I like to use it. Here are some of the highlights:
+
+* Added social media links from toolbar menus on both location and truck page
+* Added contact information on truck page
+* Added banner and larger images on truck page
+* Added truck schedule for a location on the location page
+* Added navigation button on location page
+* Initial iPad support. It works on the iPad, but doesn’t look totally like a native iPad app.
+
+[Flirty Screen Shot](/assets/img/flirtyscreenshot.png)
+
+I will update you when this gets approved for release.
+
+As always, I value speed and ease of use over flashiness.
+
+The next release I plan on building out iPad functionality, adding a trucks list, adding the ability to retrieve future schedules beyond just today, and maybe, just maybe, notifications.
