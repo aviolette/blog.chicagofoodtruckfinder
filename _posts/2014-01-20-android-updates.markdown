@@ -1,3 +1,6 @@
+---
+title: Android Updates
+---
 I’ve made a few improvements to the Chicago Food Truck Finder Android application so that it now includes background sychronization and notifications.
 
 Background synchronizations poll schedule data periodically using Android synchronization framework. Before this change, the application just retrieved schedule data from the server when the application was launched or the user pressed the refresh button. Now, syncs are done on a configurable interval in the background regardless as to whether the application is running.
